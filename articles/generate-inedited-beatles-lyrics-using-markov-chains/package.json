@@ -1,0 +1,12 @@
+{
+  "name": "generate-inedited-beatles-lyrics-using-markov-chains",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/Hackdoor-io/articles-codebase",
+  "author": "Michele Riva",
+  "license": "GPL-3.0",
+  "private": false,
+  "devDependencies": {
+    "ts-node": "^9.0.0"
+  }
+}
